@@ -1,5 +1,5 @@
 # DiSfida (http://www.peopleatdeib.polimi.it/)
-![screenshot 95](https://user-images.githubusercontent.com/32873849/42754342-6ce8f9c6-88f4-11e8-92da-ab0319ff8612.png)
+
 DiSfida is a competition promoted by the department of electronics and Bioengineering of Politecnico di Milano to develop solutions proposed by three NPO:
 - UILDM Onlus (https://www.uildm.org/storia-e-mission)
 - Debra	Italia	Onlus (http://www.debraitalia.com/)
